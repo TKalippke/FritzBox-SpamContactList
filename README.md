@@ -27,3 +27,19 @@ Select the the phone book and click "*Wiederherstellen*" (restore).
 
 Select the downloaded file.
 
+Blocking calls
+--------------
+
+To block the calls you need to activate the new phone book as a spam list.
+
+Select "*Rufbehandlung*" in the main menu and click "*Bereich hinzufügen*" in the section "*Rufnummernbereiche sperren*":
+
+![FRITZ!Box menu](./img/Fritzbox-Menu2.png)
+
+Then select "*Telefonbuch*" in "*Bereich*" and the new phone book in "*Telefonbuch*":
+
+![FRITZ!Box menu](./img/Fritzbox-CallBlocking.png)
+
+That's it.
+
+- - -
