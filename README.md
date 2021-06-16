@@ -23,7 +23,7 @@ After that login to your FRITZ!Box select "*Telefonbuch*" (phone book) and creat
 
 Select the the phone book and click "*Wiederherstellen*" (restore).
 
-![FRITZ!Box restore phone book](Fritzbox-Restore.png)
+![FRITZ!Box restore phone book](./img/Fritzbox-Restore.png)
 
 Select the downloaded file.
 
