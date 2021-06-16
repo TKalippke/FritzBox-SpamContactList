@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phonebooks>
+	<phonebook owner="90000" name="Spam">
+		<contact>
+			<category>0</category>
+			<person>
+				<realName>Spam-001</realName>
+			</person>
+			<telephony nid="1">
+				<number type="work" prio="1" id="0">06920436149</number>
+			</telephony>
+			<services />
+			<setup />
+			<features doorphone="0" />
+				<mod_time>1609455600</mod_time>
+				<uniqueid>90001</uniqueid>
+		</contact>
+		<contact>
+			<category>0</category>
+			<person>
+				<realName>Spam-002</realName>
+			</person>
+			<telephony nid="1">
+				<number type="work" prio="1" id="0">015213809423</number>
+			</telephony>
+			<services />
+			<setup />
+			<features doorphone="0" />
+				<mod_time>1609455600</mod_time>
+				<uniqueid>90002</uniqueid>
+		</contact>
+		<contact>
+			<category>0</category>
+			<person>
+				<realName>Spam-003</realName>
+			</person>
+			<telephony nid="1">
+				<number type="work" prio="1" id="0">03022187165</number>
+			</telephony>
+			<services />
+			<setup />
+			<features doorphone="0" />
+				<mod_time>1609455600</mod_time>
+				<uniqueid>90003</uniqueid>
+		</contact>
+		<contact>
+			<category>0</category>
+			<person>
+				<realName>Spam-004</realName>
+			</person>
+			<telephony nid="1">
+				<number type="work" prio="1" id="0">00447868726050</number>
+			</telephony>
+			<services />
+			<setup />
+			<features doorphone="0" />
+				<mod_time>1609455600</mod_time>
+				<uniqueid>90004</uniqueid>
+		</contact>
+		<contact>
+			<category>0</category>
+			<person>
+				<realName>Spam-005</realName>
+			</person>
+			<telephony nid="1">
+				<number type="work" prio="1" id="0">030214802532</number>
+			</telephony>
+			<services />
+			<setup />
+			<features doorphone="0" />
+				<mod_time>1609455600</mod_time>
+				<uniqueid>90005</uniqueid>
+		</contact>
+		<contact>
+			<category>0</category>
+			<person>
+				<realName>Spam-006</realName>
+			</person>
+			<telephony nid="1">
+				<number type="work" prio="1" id="0">041819474940</number>
+			</telephony>
+			<services />
+			<setup />
+			<features doorphone="0" />
+				<mod_time>1609455600</mod_time>
+				<uniqueid>90006</uniqueid>
+		</contact>
+			<contact>
+			<category>0</category>
+			<person>
+				<realName>Spam-007</realName>
+			</person>
+			<telephony nid="1">
+				<number type="work" prio="1" id="0">080020033407</number>
+			</telephony>
+			<services />
+			<setup />
+			<features doorphone="0" />
+				<mod_time>1609455600</mod_time>
+				<uniqueid>90007</uniqueid>
+		</contact>
+		<contact>
+			<category>0</category>
+			<person>
+				<realName>Spam-008</realName>
+			</person>
+			<telephony nid="1">
+				<number type="work" prio="1" id="0">021332463890</number>
+			</telephony>
+			<services />
+			<setup />
+			<features doorphone="0" />
+				<mod_time>1609455600</mod_time>
+				<uniqueid>90008</uniqueid>
+		</contact>
+		<contact>
+			<category>0</category>
+			<person>
+				<realName>Spam-009</realName>
+			</person>
+			<telephony nid="1">
+				<number type="work" prio="1" id="0">0043800291573</number>
+			</telephony>
+			<services />
+			<setup />
+			<features doorphone="0" />
+				<mod_time>1609455600</mod_time>
+				<uniqueid>90009</uniqueid>
+		</contact>
+		<contact>
+			<category>0</category>
+			<person>
+				<realName>Spam-010</realName>
+			</person>
+			<telephony nid="1">
+				<number type="work" prio="1" id="0">023149498861</number>
+			</telephony>
+			<services />
+			<setup />
+			<features doorphone="0" />
+				<mod_time>1609455600</mod_time>
+				<uniqueid>90010</uniqueid>
+		</contact>
+	</phonebook>
+</phonebooks>
