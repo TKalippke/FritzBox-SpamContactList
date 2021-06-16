@@ -15,15 +15,15 @@ In order to simplify the work, I provide an xml file for the import on the FRITZ
 Installation
 ------------
 
-Download the ![xml-file](./contactlist/FritzBox-Spam-Phonebook.xml) `FritzBox-Spam-Phonebook.xml` in the sub folder `contactlist`.
+Download the [xml-file](./contactlist/FritzBox-Spam-Phonebook.xml) `FritzBox-Spam-Phonebook.xml` in the sub folder `contactlist`.
 
 After that login to your FRITZ!Box select "*Telefonbuch*" (phone book) and create a new one.
 
-[FRITZ!Box menu](./img/Fritzbox-Menu.png)
+![FRITZ!Box menu](./img/Fritzbox-Menu.png)
 
 Select the the phone book and click "*Wiederherstellen*" (restore).
 
-[FRITZ!Box restore phone book](Fritzbox-Restore.png)
+![FRITZ!Box restore phone book](Fritzbox-Restore.png)
 
 Select the downloaded file.
 
