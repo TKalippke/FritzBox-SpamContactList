@@ -8,3 +8,19 @@ TEL;type=WORK;type=VOICE;type=pref:+49-163-2276199
 NOTE:Abschaltung der Rufnummern zum 18.04.2022 (https://www.bundesnetzagentur.de/DE/Vportal/TK/Aerger/Aktuelles/start.html)
 X-ABShowAs:COMPANY
 END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;;;;
+FN:Spam-01
+ORG:Spam-01;
+TEL;type=WORK;type=VOICE;type=pref:+49-69-20436149
+X-ABShowAs:COMPANY
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:;;;;
+FN:Spam-02
+ORG:Spam-02;
+TEL;type=WORK;type=VOICE;type=pref:+49-152-13809423
+X-ABShowAs:COMPANY
+END:VCARD
