@@ -4,7 +4,7 @@
 		<contact>
 			<category>0</category>
 			<person>
-				<realName>Spam-001</realName>
+				<realName>Spam-github-tk-001</realName>
 			</person>
 			<telephony nid="1">
 				<number type="work" prio="1" id="0">+496920436149</number>
@@ -18,7 +18,7 @@
 		<contact>
 			<category>0</category>
 			<person>
-				<realName>Spam-002</realName>
+				<realName>Spam-github-tk-002</realName>
 			</person>
 			<telephony nid="1">
 				<number type="work" prio="1" id="0">+4915213809423</number>
@@ -32,7 +32,7 @@
 		<contact>
 			<category>0</category>
 			<person>
-				<realName>Spam-003</realName>
+				<realName>Spam-github-tk-003</realName>
 			</person>
 			<telephony nid="1">
 				<number type="work" prio="1" id="0">+493022187165</number>
@@ -46,7 +46,7 @@
 		<contact>
 			<category>0</category>
 			<person>
-				<realName>Spam-004</realName>
+				<realName>Spam-github-tk-004</realName>
 			</person>
 			<telephony nid="1">
 				<number type="work" prio="1" id="0">+447868726050</number>
@@ -60,7 +60,7 @@
 		<contact>
 			<category>0</category>
 			<person>
-				<realName>Spam-005</realName>
+				<realName>Spam-github-tk-005</realName>
 			</person>
 			<telephony nid="1">
 				<number type="work" prio="1" id="0">+4930214802532</number>
@@ -74,7 +74,7 @@
 		<contact>
 			<category>0</category>
 			<person>
-				<realName>Spam-006</realName>
+				<realName>Spam-github-tk-006</realName>
 			</person>
 			<telephony nid="1">
 				<number type="work" prio="1" id="0">+4941819474940</number>
@@ -88,7 +88,7 @@
 			<contact>
 			<category>0</category>
 			<person>
-				<realName>Spam-007</realName>
+				<realName>Spam-github-tk-007</realName>
 			</person>
 			<telephony nid="1">
 				<number type="work" prio="1" id="0">+4980020033407</number>
@@ -102,7 +102,7 @@
 		<contact>
 			<category>0</category>
 			<person>
-				<realName>Spam-008</realName>
+				<realName>Spam-github-tk-008</realName>
 			</person>
 			<telephony nid="1">
 				<number type="work" prio="1" id="0">+4921332463890</number>
@@ -116,7 +116,7 @@
 		<contact>
 			<category>0</category>
 			<person>
-				<realName>Spam-009</realName>
+				<realName>Spam-github-tk-009</realName>
 			</person>
 			<telephony nid="1">
 				<number type="work" prio="1" id="0">+43800291573</number>
@@ -130,7 +130,7 @@
 		<contact>
 			<category>0</category>
 			<person>
-				<realName>Spam-010</realName>
+				<realName>Spam-github-tk-010</realName>
 			</person>
 			<telephony nid="1">
 				<number type="work" prio="1" id="0">+4923149498861</number>
@@ -144,7 +144,7 @@
 		<contact>
 			<category>0</category>
 			<person>
-				<realName>Spam-011</realName>
+				<realName>Spam-github-tk-011</realName>
 			</person>
 			<telephony nid="1">
 				<number type="work" prio="1" id="0">+496211816203</number>
@@ -154,6 +154,20 @@
 			<features doorphone="0" />
 				<mod_time>1609455600</mod_time>
 				<uniqueid>90011</uniqueid>
+		</contact>
+		<contact>
+			<category>0</category>
+			<person>
+				<realName>Spam-github-tk-012</realName>
+			</person>
+			<telephony nid="1">
+				<number type="work" prio="1" id="0">+497117490814</number>
+			</telephony>
+			<services />
+			<setup />
+			<features doorphone="0" />
+				<mod_time>1609455600</mod_time>
+				<uniqueid>90013</uniqueid>
 		</contact>
 		<contact>
 			<category>0</category>
