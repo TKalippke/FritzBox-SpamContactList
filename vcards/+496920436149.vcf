@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+N:;;;;
+FN:Spam-01
+ORG:Spam-01;
+TEL;type=WORK;type=VOICE;type=pref:+49-69-20436149
+X-ABShowAs:COMPANY
+END:VCARD
